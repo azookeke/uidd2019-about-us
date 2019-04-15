@@ -1,7 +1,6 @@
 {
-  "name": "About-Us",
+  "name": "about-us",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "wowjs": "^1.1.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miayang0513/About-Us.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miayang0513/About-Us/issues"
+  },
+  "homepage": "https://github.com/miayang0513/About-Us#readme",
+  "description": ""
 }
